@@ -116,7 +116,7 @@ Contributions, acknowledgments and thanks
 * Many thanks to ***Laicasaane*** for his very precise remarks on the charsets and modes, and the Visual Studio syntax highlighting plugin.
 * Many thanks to ***Troy Alford**** for his [**_react integration_**](https://github.com/TroyAlford/react-glaemscribe), fixes and comments on the js src.
 * Many thanks to ***Dmitry Kourmyshov*** for his very clever remarks and glances at the elvish modes.
-* Many thanks to ***Leonard Wickmark*** for his suggestions during his integration of **_Glǽmscribe_**'s engine into the [**_elfdict_**](http://elfict.com) project!.
+* Many thanks to ***Leonard Wickmark*** for his suggestions during his integration of **_Glǽmscribe_**'s engine into the [**_elfdict_**](http://elfdict.com) project!.
 * **_Glǽmscribe_** would never have come to be without the ceaseless and continuously renewed work of the great family of Internet Tolkienists, both on technologies (with several generations of transcribers and typefaces) and on knowledge shared and gathered on websites and forums. Neither would it exist without the devoted labour of all those that make the publication of Tolkien's linguistic works possible. A very big thank you to them all!
 
 TTS Engine
